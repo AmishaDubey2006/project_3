@@ -1,0 +1,13 @@
+0:0:0:0:0:0:0:1 - - [07/Nov/2023:16:07:44 +0530] "GET /project_3/WelcomeCtl HTTP/1.1" 200 3755
+0:0:0:0:0:0:0:1 - - [07/Nov/2023:16:07:44 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [07/Nov/2023:16:07:44 +0530] "GET /project_3/img/bg16.jpg HTTP/1.1" 304 -
+127.0.0.1 - - [07/Nov/2023:20:34:59 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [07/Nov/2023:20:35:00 +0530] "GET /project_3/ HTTP/1.1" 200 919
+0:0:0:0:0:0:0:1 - - [07/Nov/2023:20:35:00 +0530] "GET /project_3/img/bg17.jpg HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [07/Nov/2023:20:35:19 +0530] "GET /project_3/WelcomeCtl HTTP/1.1" 200 3755
+0:0:0:0:0:0:0:1 - - [07/Nov/2023:20:35:19 +0530] "GET /project_3/WelcomeCtl HTTP/1.1" 200 3755
+0:0:0:0:0:0:0:1 - - [07/Nov/2023:20:35:19 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [07/Nov/2023:21:31:31 +0530] "GET /project_3/UserRegistrationCtl HTTP/1.1" 200 11880
+0:0:0:0:0:0:0:1 - - [07/Nov/2023:21:31:31 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [07/Nov/2023:21:31:31 +0530] "GET /resources/demos/style.css HTTP/1.1" 404 784
+0:0:0:0:0:0:0:1 - - [07/Nov/2023:21:32:16 +0530] "GET /project_3/LoginCtl HTTP/1.1" 200 7167
